@@ -2,3 +2,6 @@ title: My Website
 description: A description of my website
 theme: minima
 url: "https://larryno99.github.io"
+
+plugins:
+  - jekyll-remote-theme
