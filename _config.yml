@@ -3,5 +3,6 @@ description: A description of my website
 theme: minima
 url: "https://larryno99.github.io"
 
+remote_theme: niklasbuschmann/contrast@v2.11
 plugins:
   - jekyll-remote-theme
